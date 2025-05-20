@@ -1,0 +1,69 @@
+path: Z:/dataset_final
+train: images/train
+val: images/val
+nc: 64
+names:
+  - Apple
+  - Bagel
+  - Banana
+  - Beans
+  - Beef
+  - Beer
+  - Bell pepper
+  - Blueberry
+  - Bread
+  - Broccoli
+  - Butter
+  - Cabbage
+  - Cantaloupe
+  - Carrot
+  - Cauliflower
+  - Celery
+  - Cheese
+  - Cherry
+  - Chicken
+  - Coconut
+  - Coffee
+  - Cookie
+  - Corn
+  - Crab
+  - Croissant
+  - Cucumber
+  - Egg
+  - Eggplant
+  - Fish
+  - French fries
+  - Garlic
+  - Grape
+  - Grapefruit
+  - Ice cream
+  - Kiwi
+  - Lemon
+  - Lettuce
+  - Lobster
+  - Mango
+  - Milk
+  - Muffin
+  - Mushroom
+  - Oil
+  - Onion
+  - Orange
+  - Oyster
+  - Papaya
+  - Pasta
+  - Peach
+  - Pear
+  - Pineapple
+  - Plum
+  - Pomegranate
+  - Pork
+  - Potato
+  - Pumpkin
+  - Radish
+  - Rice
+  - Shrimp
+  - Strawberry
+  - Tomato
+  - Watermelon
+  - Wine
+  - Zucchini
